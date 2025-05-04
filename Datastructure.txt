@@ -1,0 +1,20 @@
+A Blockchain-based ECommerce Reputation System Built with Verifiable Credentials
+
+
+IEEE Transaction on Blockchain,Volume:11,Issue Date:10.May.2023
+
+
+
+Fid	
+TransactionNo	
+PDate	
+ProductNo	
+ProductName	
+Price	
+Quantity	
+CustomerNo	
+Discount_Token_No	
+Country	
+Rating
+PRep
+Hashcode
